@@ -49,4 +49,4 @@ plt.xlabel(
     "error train: %d/200 ; errors novel regular: %d/40 ; "
         "errors novel abnormal: %d/40"
             % (n_error_train, n_error_test, n_error_outliers))
-plt.savefig("graph.png")i
+plt.savefig("graph.png")
